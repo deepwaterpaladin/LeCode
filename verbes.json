@@ -1,0 +1,290 @@
+{
+    "être": {
+        "présent": ["suis", "es", "est", "sommes", "êtes", "sont"],
+        "passé composé": ["ai été", "as été", "a été", "avons été", "avez été", "ont été"],
+        "imparfait": ["étais", "étais", "était", "étions", "étiez", "étaient"],
+        "futur": ["serai", "seras", "sera", "serons", "serez", "seront"],
+        "plus-que-parfait": ["avais été", "avais été", "avait été", "avions été", "aviez été", "avaient été"],
+        "conditionnel présent": ["serais", "serais", "serait", "serions", "seriez", "seraient"],
+        "conditionnel passé": ["aurais été", "aurais été", "aurait été", "aurions été", "auriez été", "auraient été"]
+    },
+    "avoir": {
+        "présent": ["ai", "as", "a", "avons", "avez", "ont"],
+        "passé composé": ["ai eu", "as eu", "a eu", "avons eu", "avez eu", "ont eu"],
+        "imparfait": ["avais", "avais", "avait", "avions", "aviez", "avaient"],
+        "futur": ["aurai", "auras", "aura", "aurons", "aurez", "auront"],
+        "plus-que-parfait": ["avais eu", "avais eu", "avait eu", "avions eu", "aviez eu", "avaient eu"],
+        "conditionnel présent": ["aurais", "aurais", "aurait", "aurions", "auriez", "auraient"],
+        "conditionnel passé": ["aurais eu", "aurais eu", "aurait eu", "aurions eu", "auriez eu", "auraient eu"]
+    },
+    "aller": {
+        "présent": ["vais", "vas", "va", "allons", "allez", "vont"],
+        "passé composé": ["suis allé", "es allé", "est allé", "sommes allés", "êtes allés", "sont allés"],
+        "imparfait": ["allais", "allais", "allait", "allions", "alliez", "allaient"],
+        "futur": ["irai", "iras", "ira", "irons", "irez", "iront"],
+        "plus-que-parfait": ["étais allé", "étais allé", "était allé", "étions allés", "étiez allés", "étaient allés"],
+        "conditionnel présent": ["irais", "irais", "irait", "irions", "iriez", "iraient"],
+        "conditionnel passé": ["serais allé", "serais allé", "serait allé", "serions allés", "seriez allés", "seraient allés"]
+    },
+    "faire": {
+        "présent": ["fais", "fais", "fait", "faisons", "faites", "font"],
+        "passé composé": ["ai fait", "as fait", "a fait", "avons fait", "avez fait", "ont fait"],
+        "imparfait": ["faisais", "faisais", "faisait", "faisions", "faisiez", "faisaient"],
+        "futur": ["ferai", "feras", "fera", "ferons", "ferez", "feront"],
+        "plus-que-parfait": ["avais fait", "avais fait", "avait fait", "avions fait", "aviez fait", "avaient fait"],
+        "conditionnel présent": ["ferais", "ferais", "ferait", "ferions", "feriez", "feraient"],
+        "conditionnel passé": ["aurais fait", "aurais fait", "aurait fait", "aurions fait", "auriez fait", "auraient fait"]
+    },
+    "dire": {
+        "présent": ["dis", "dis", "dit", "disons", "dites", "disent"],
+        "passé composé": ["ai dit", "as dit", "a dit", "avons dit", "avez dit", "ont dit"],
+        "imparfait": ["disais", "disais", "disait", "disions", "disiez", "disaient"],
+        "futur": ["dirai", "diras", "dira", "dirons", "direz", "diront"],
+        "plus-que-parfait": ["avais dit", "avais dit", "avait dit", "avions dit", "aviez dit", "avaient dit"],
+        "conditionnel présent": ["dirais", "dirais", "dirait", "dirions", "diriez", "diraient"],
+        "conditionnel passé": ["aurais dit", "aurais dit", "aurait dit", "aurions dit", "auriez dit", "auraient dit"]
+    },
+    "voir": {
+        "présent": ["vois", "vois", "voit", "voyons", "voyez", "voient"],
+        "passé composé": ["ai vu", "as vu", "a vu", "avons vu", "avez vu", "ont vu"],
+        "imparfait": ["voyais", "voyais", "voyait", "voyions", "voyiez", "voyaient"],
+        "futur": ["verrai", "verras", "verra", "verrons", "verrez", "verront"],
+        "plus-que-parfait": ["avais vu", "avais vu", "avait vu", "avions vu", "aviez vu", "avaient vu"],
+        "conditionnel présent": ["verrais", "verrais", "verrait", "verrions", "verriez", "verraient"],
+        "conditionnel passé": ["aurais vu", "aurais vu", "aurait vu", "aurions vu", "auriez vu", "auraient vu"]
+    },
+    "pouvoir": {
+        "présent": ["peux", "peux", "peut", "pouvons", "pouvez", "peuvent"],
+        "passé composé": ["ai pu", "as pu", "a pu", "avons pu", "avez pu", "ont pu"],
+        "imparfait": ["pouvais", "pouvais", "pouvait", "pouvions", "pouviez", "pouvaient"],
+        "futur": ["pourrai", "pourras", "pourra", "pourrons", "pourrez", "pourront"],
+        "plus-que-parfait": ["avais pu", "avais pu", "avait pu", "avions pu", "aviez pu", "avaient pu"],
+        "conditionnel présent": ["pourrais", "pourrais", "pourrait", "pourrions", "pourriez", "pourraient"],
+        "conditionnel passé": ["aurais pu", "aurais pu", "aurait pu", "aurions pu", "auriez pu", "auraient pu"]
+    },
+    "venir": {
+        "présent": ["viens", "viens", "vient", "venons", "venez", "viennent"],
+        "passé composé": ["suis venu", "es venu", "est venu", "sommes venus", "êtes venus", "sont venus"],
+        "imparfait": ["venais", "venais", "venait", "venions", "veniez", "venaient"],
+        "futur": ["viendrai", "viendras", "viendra", "viendrons", "viendrez", "viendront"],
+        "plus-que-parfait": ["étais venu", "étais venu", "était venu", "étions venus", "étiez venus", "étaient venus"],
+        "conditionnel présent": ["viendrais", "viendrais", "viendrait", "viendrions", "viendriez", "viendraient"],
+        "conditionnel passé": ["serais venu", "serais venu", "serait venu", "serions venus", "seriez venus", "seraient venus"]
+    },
+    "devoir": {
+        "présent": ["dois", "dois", "doit", "devons", "devez", "doivent"],
+        "passé composé": ["ai dû", "as dû", "a dû", "avons dû", "avez dû", "ont dû"],
+        "imparfait": ["devais", "devais", "devait", "devions", "deviez", "devaient"],
+        "futur": ["devrai", "devras", "devra", "devrons", "devrez", "devront"],
+        "plus-que-parfait": ["avais dû", "avais dû", "avait dû", "avions dû", "aviez dû", "avaient dû"],
+        "conditionnel présent": ["devrais", "devrais", "devrait", "devrions", "devriez", "devraient"],
+        "conditionnel passé": ["aurais dû", "aurais dû", "aurait dû", "aurions dû", "auriez dû", "auraient dû"]
+    },
+    "savoir": {
+        "présent": ["sais", "sais", "sait", "savons", "savez", "savent"],
+        "passé composé": ["ai su", "as su", "a su", "avons su", "avez su", "ont su"],
+        "imparfait": ["savais", "savais", "savait", "savions", "saviez", "savaient"],
+        "futur": ["saurai", "sauras", "saura", "saurons", "saurez", "sauront"],
+        "plus-que-parfait": ["avais su", "avais su", "avait su", "avions su", "aviez su", "avaient su"],
+        "conditionnel présent": ["saurais", "saurais", "saurait", "saurions", "sauriez", "sauraient"],
+        "conditionnel passé": ["aurais su", "aurais su", "aurait su", "aurions su", "auriez su", "auraient su"]
+    },
+    "vouloir": {
+        "présent": ["veux", "veux", "veut", "voulons", "voulez", "veulent"],
+        "passé composé": ["ai voulu", "as voulu", "a voulu", "avons voulu", "avez voulu", "ont voulu"],
+        "imparfait": ["voulais", "voulais", "voulait", "voulions", "vouliez", "voulaient"],
+        "futur": ["voudrai", "voudras", "voudra", "voudrons", "voudrez", "voudront"],
+        "plus-que-parfait": ["avais voulu", "avais voulu", "avait voulu", "avions voulu", "aviez voulu", "avaient voulu"],
+        "conditionnel présent": ["voudrais", "voudrais", "voudrait", "voudrions", "voudriez", "voudraient"],
+        "conditionnel passé": ["aurais voulu", "aurais voulu", "aurait voulu", "aurions voulu", "auriez voulu", "auraient voulu"]
+    },
+    "prendre": {
+        "présent": ["prends", "prends", "prend", "prenons", "prenez", "prennent"],
+        "passé composé": ["ai pris", "as pris", "a pris", "avons pris", "avez pris", "ont pris"],
+        "imparfait": ["prenais", "prenais", "prenait", "prenions", "preniez", "prenaient"],
+        "futur": ["prendrai", "prendras", "prendra", "prendrons", "prendrez", "prendront"],
+        "plus-que-parfait": ["avais pris", "avais pris", "avait pris", "avions pris", "aviez pris", "avaient pris"],
+        "conditionnel présent": ["prendrais", "prendrais", "prendrait", "prendrions", "prendriez", "prendraient"],
+        "conditionnel passé": ["aurais pris", "aurais pris", "aurait pris", "aurions pris", "auriez pris", "auraient pris"]
+    },
+    "mettre": {
+        "présent": ["mets", "mets", "met", "mettons", "mettez", "mettent"],
+        "passé composé": ["ai mis", "as mis", "a mis", "avons mis", "avez mis", "ont mis"],
+        "imparfait": ["mettais", "mettais", "mettait", "mettions", "mettiez", "mettaient"],
+        "futur": ["mettrai", "mettras", "mettra", "mettrons", "mettrez", "mettront"],
+        "plus-que-parfait": ["avais mis", "avais mis", "avait mis", "avions mis", "aviez mis", "avaient mis"],
+        "conditionnel présent": ["mettrais", "mettrais", "mettrait", "mettrions", "mettriez", "mettraient"],
+        "conditionnel passé": ["aurais mis", "aurais mis", "aurait mis", "aurions mis", "auriez mis", "auraient mis"]
+    },
+    "parler": {
+        "présent": ["parle", "parles", "parle", "parlons", "parlez", "parlent"],
+        "passé composé": ["ai parlé", "as parlé", "a parlé", "avons parlé", "avez parlé", "ont parlé"],
+        "imparfait": ["parlais", "parlais", "parlait", "parlions", "parliez", "parlaient"],
+        "futur": ["parlerai", "parleras", "parlera", "parlerons", "parlerez", "parleront"],
+        "plus-que-parfait": ["avais parlé", "avais parlé", "avait parlé", "avions parlé", "aviez parlé", "avaient parlé"],
+        "conditionnel présent": ["parlerais", "parlerais", "parlerait", "parlerions", "parleriez", "parleraient"],
+        "conditionnel passé": ["aurais parlé", "aurais parlé", "aurait parlé", "aurions parlé", "auriez parlé", "auraient parlé"]
+    },
+    "partir": {
+        "présent": ["pars", "pars", "part", "partons", "partez", "partent"],
+        "passé composé": ["suis parti", "es parti", "est parti", "sommes partis", "êtes partis", "sont partis"],
+        "imparfait": ["partais", "partais", "partait", "partions", "partiez", "partaient"],
+        "futur": ["partirai", "partiras", "partira", "partirons", "partirez", "partiront"],
+        "plus-que-parfait": ["étais parti", "étais parti", "était parti", "étions partis", "étiez partis", "étaient partis"],
+        "conditionnel présent": ["partirais", "partirais", "partirait", "partirions", "partiriez", "partiraient"],
+        "conditionnel passé": ["serais parti", "serais parti", "serait parti", "serions partis", "seriez partis", "seraient partis"]
+    },
+    "penser": {
+        "présent": ["pense", "penses", "pense", "pensons", "pensez", "pensent"],
+        "passé composé": ["ai pensé", "as pensé", "a pensé", "avons pensé", "avez pensé", "ont pensé"],
+        "imparfait": ["pensais", "pensais", "pensait", "pensions", "pensiez", "pensaient"],
+        "futur": ["penserai", "penseras", "pensera", "penserons", "penserez", "penseront"],
+        "plus-que-parfait": ["avais pensé", "avais pensé", "avait pensé", "avions pensé", "aviez pensé", "avaient pensé"],
+        "conditionnel présent": ["penserais", "penserais", "penserait", "penserions", "penseriez", "penseraient"],
+        "conditionnel passé": ["aurais pensé", "aurais pensé", "aurait pensé", "aurions pensé", "auriez pensé", "auraient pensé"]
+    },
+    "écouter": {
+        "présent": ["écoute", "écoutes", "écoute", "écoutons", "écoutez", "écoutent"],
+        "passé composé": ["ai écouté", "as écouté", "a écouté", "avons écouté", "avez écouté", "ont écouté"],
+        "imparfait": ["écoutais", "écoutais", "écoutait", "écoutions", "écoutiez", "écoutaient"],
+        "futur": ["écouterai", "écouteras", "écoutera", "écouterons", "écouterez", "écouteront"],
+        "plus-que-parfait": ["avais écouté", "avais écouté", "avait écouté", "avions écouté", "aviez écouté", "avaient écouté"],
+        "conditionnel présent": ["écouterais", "écouterais", "écouterait", "écouterions", "écouteriez", "écouteraient"],
+        "conditionnel passé": ["aurais écouté", "aurais écouté", "aurait écouté", "aurions écouté", "auriez écouté", "auraient écouté"]
+    },
+    "lire": {
+        "présent": ["lis", "lis", "lit", "lisons", "lisez", "lisent"],
+        "passé composé": ["ai lu", "as lu", "a lu", "avons lu", "avez lu", "ont lu"],
+        "imparfait": ["lisais", "lisais", "lisait", "lisions", "lisiez", "lisaient"],
+        "futur": ["lirai", "liras", "lira", "lirons", "lirez", "liront"],
+        "plus-que-parfait": ["avais lu", "avais lu", "avait lu", "avions lu", "aviez lu", "avaient lu"],
+        "conditionnel présent": ["lirais", "lirais", "lirait", "lirions", "liriez", "liraient"],
+        "conditionnel passé": ["aurais lu", "aurais lu", "aurait lu", "aurions lu", "auriez lu", "auraient lu"]
+    },
+    "écrire": {
+        "présent": ["écris", "écris", "écrit", "écrivons", "écrivez", "écrivent"],
+        "passé composé": ["ai écrit", "as écrit", "a écrit", "avons écrit", "avez écrit", "ont écrit"],
+        "imparfait": ["écrivais", "écrivais", "écrivait", "écrivions", "écriviez", "écrivaient"],
+        "futur": ["écrirai", "écriras", "écrira", "écrirons", "écrirez", "écriront"],
+        "plus-que-parfait": ["avais écrit", "avais écrit", "avait écrit", "avions écrit", "aviez écrit", "avaient écrit"],
+        "conditionnel présent": ["écrirais", "écrirais", "écrirait", "écririons", "écririez", "écriraient"],
+        "conditionnel passé": ["aurais écrit", "aurais écrit", "aurait écrit", "aurions écrit", "auriez écrit", "auraient écrit"]
+    },
+    "manger": {
+        "présent": ["mange", "manges", "mange", "mangeons", "mangez", "mangent"],
+        "passé composé": ["ai mangé", "as mangé", "a mangé", "avons mangé", "avez mangé", "ont mangé"],
+        "imparfait": ["mangeais", "mangeais", "mangeait", "mangions", "mangiez", "mangeaient"],
+        "futur": ["mangerai", "mangeras", "mangera", "mangerons", "mangerez", "mangeront"],
+        "plus-que-parfait": ["avais mangé", "avais mangé", "avait mangé", "avions mangé", "aviez mangé", "avaient mangé"],
+        "conditionnel présent": ["mangerais", "mangerais", "mangerait", "mangerions", "mangeriez", "mangeraient"],
+        "conditionnel passé": ["aurais mangé", "aurais mangé", "aurait mangé", "aurions mangé", "auriez mangé", "auraient mangé"]
+    },
+    "boire": {
+        "présent": ["bois", "bois", "boit", "buvons", "buvez", "boivent"],
+        "passé composé": ["ai bu", "as bu", "a bu", "avons bu", "avez bu", "ont bu"],
+        "imparfait": ["buvais", "buvais", "buvait", "buvions", "buviez", "buvaient"],
+        "futur": ["boirai", "boiras", "boira", "boirons", "boirez", "boiront"],
+        "plus-que-parfait": ["avais bu", "avais bu", "avait bu", "avions bu", "aviez bu", "avaient bu"],
+        "conditionnel présent": ["boirais", "boirais", "boirait", "boirions", "boiriez", "boiraient"],
+        "conditionnel passé": ["aurais bu", "aurais bu", "aurait bu", "aurions bu", "auriez bu", "auraient bu"]
+    },
+    "dormir": {
+        "présent": ["dors", "dors", "dort", "dormons", "dormez", "dorment"],
+        "passé composé": ["ai dormi", "as dormi", "a dormi", "avons dormi", "avez dormi", "ont dormi"],
+        "imparfait": ["dormais", "dormais", "dormait", "dormions", "dormiez", "dormaient"],
+        "futur": ["dormirai", "dormiras", "dormira", "dormirons", "dormirez", "dormiront"],
+        "plus-que-parfait": ["avais dormi", "avais dormi", "avait dormi", "avions dormi", "aviez dormi", "avaient dormi"],
+        "conditionnel présent": ["dormirais", "dormirais", "dormirait", "dormirions", "dormiriez", "dormiraient"],
+        "conditionnel passé": ["aurais dormi", "aurais dormi", "aurait dormi", "aurions dormi", "auriez dormi", "auraient dormi"]
+    },
+    "recevoir": {
+        "présent": ["reçois", "reçois", "reçoit", "recevons", "recevez", "reçoivent"],
+        "passé composé": ["ai reçu", "as reçu", "a reçu", "avons reçu", "avez reçu", "ont reçu"],
+        "imparfait": ["recevais", "recevais", "recevait", "recevions", "receviez", "recevaient"],
+        "futur": ["recevrai", "recevras", "recevra", "recevrons", "recevrez", "recevront"],
+        "plus-que-parfait": ["avais reçu", "avais reçu", "avait reçu", "avions reçu", "aviez reçu", "avaient reçu"],
+        "conditionnel présent": ["recevrais", "recevrais", "recevrait", "recevrions", "recevriez", "recevraient"],
+        "conditionnel passé": ["aurais reçu", "aurais reçu", "aurait reçu", "aurions reçu", "auriez reçu", "auraient reçu"]
+    },
+    "ouvrir": {
+        "présent": ["ouvre", "ouvres", "ouvre", "ouvrons", "ouvrez", "ouvrent"],
+        "passé composé": ["ai ouvert", "as ouvert", "a ouvert", "avons ouvert", "avez ouvert", "ont ouvert"],
+        "imparfait": ["ouvrais", "ouvrais", "ouvrait", "ouvrions", "ouvriez", "ouvraient"],
+        "futur": ["ouvrirai", "ouvriras", "ouvrira", "ouvrirons", "ouvrirez", "ouvriront"],
+        "plus-que-parfait": ["avais ouvert", "avais ouvert", "avait ouvert", "avions ouvert", "aviez ouvert", "avaient ouvert"],
+        "conditionnel présent": ["ouvrirais", "ouvrirais", "ouvrirait", "ouvririons", "ouvririez", "ouvriraient"],
+        "conditionnel passé": ["aurais ouvert", "aurais ouvert", "aurait ouvert", "aurions ouvert", "auriez ouvert", "auraient ouvert"]
+    },
+    "fermer": {
+        "présent": ["ferme", "fermes", "ferme", "fermons", "fermez", "ferment"],
+        "passé composé": ["ai fermé", "as fermé", "a fermé", "avons fermé", "avez fermé", "ont fermé"],
+        "imparfait": ["fermais", "fermais", "fermait", "fermions", "fermiez", "fermaient"],
+        "futur": ["fermerai", "fermeras", "fermera", "fermerons", "fermerez", "fermeront"],
+        "plus-que-parfait": ["avais fermé", "avais fermé", "avait fermé", "avions fermé", "aviez fermé", "avaient fermé"],
+        "conditionnel présent": ["fermerais", "fermerais", "fermerait", "fermerions", "fermeriez", "fermeraient"],
+        "conditionnel passé": ["aurais fermé", "aurais fermé", "aurait fermé", "aurions fermé", "auriez fermé", "auraient fermé"]
+    },
+    "comprendre": {
+        "présent": ["comprends", "comprends", "comprend", "comprenons", "comprenez", "comprennent"],
+        "passé composé": ["ai compris", "as compris", "a compris", "avons compris", "avez compris", "ont compris"],
+        "imparfait": ["comprenais", "comprenais", "comprenait", "comprenions", "compreniez", "comprenaient"],
+        "futur": ["comprendrai", "comprendras", "comprendra", "comprendrons", "comprendrez", "comprendront"],
+        "plus-que-parfait": ["avais compris", "avais compris", "avait compris", "avions compris", "aviez compris", "avaient compris"],
+        "conditionnel présent": ["comprendrais", "comprendrais", "comprendrait", "comprendrions", "comprendriez", "comprendraient"],
+        "conditionnel passé": ["aurais compris", "aurais compris", "aurait compris", "aurions compris", "auriez compris", "auraient compris"]
+    },
+    "apprendre": {
+        "présent": ["apprends", "apprends", "apprend", "apprenons", "apprenez", "apprennent"],
+        "passé composé": ["ai appris", "as appris", "a appris", "avons appris", "avez appris", "ont appris"],
+        "imparfait": ["apprenais", "apprenais", "apprenait", "apprenions", "appreniez", "apprenaient"],
+        "futur": ["apprendrai", "apprendras", "apprendra", "apprendrons", "apprendrez", "apprendront"],
+        "plus-que-parfait": ["avais appris", "avais appris", "avait appris", "avions appris", "aviez appris", "avaient appris"],
+        "conditionnel présent": ["apprendrais", "apprendrais", "apprendrait", "apprendrions", "apprendriez", "apprendraient"],
+        "conditionnel passé": ["aurais appris", "aurais appris", "aurait appris", "aurions appris", "auriez appris", "auraient appris"]
+    },
+    "connaître": {
+        "présent": ["connais", "connais", "connaît", "connaissons", "connaissez", "connaissent"],
+        "passé composé": ["ai connu", "as connu", "a connu", "avons connu", "avez connu", "ont connu"],
+        "imparfait": ["connaissais", "connaissais", "connaissait", "connaissions", "connaissiez", "connaissaient"],
+        "futur": ["connaîtrai", "connaîtras", "connaîtra", "connaîtrons", "connaîtrez", "connaîtront"],
+        "plus-que-parfait": ["avais connu", "avais connu", "avait connu", "avions connu", "aviez connu", "avaient connu"],
+        "conditionnel présent": ["connaîtrais", "connaîtrais", "connaîtrait", "connaîtrions", "connaîtriez", "connaîtraient"],
+        "conditionnel passé": ["aurais connu", "aurais connu", "aurait connu", "aurions connu", "auriez connu", "auraient connu"]
+    },
+    "croire": {
+        "présent": ["crois", "crois", "croit", "croyons", "croyez", "croient"],
+        "passé composé": ["ai cru", "as cru", "a cru", "avons cru", "avez cru", "ont cru"],
+        "imparfait": ["croyais", "croyais", "croyait", "croyions", "croyiez", "croyaient"],
+        "futur": ["croirai", "croiras", "croira", "croirons", "croirez", "croiront"],
+        "plus-que-parfait": ["avais cru", "avais cru", "avait cru", "avions cru", "aviez cru", "avaient cru"],
+        "conditionnel présent": ["croirais", "croirais", "croirait", "croirions", "croiriez", "croiraient"],
+        "conditionnel passé": ["aurais cru", "aurais cru", "aurait cru", "aurions cru", "auriez cru", "auraient cru"]
+    },
+    "vivre": {
+        "présent": ["vis", "vis", "vit", "vivons", "vivez", "vivent"],
+        "passé composé": ["ai vécu", "as vécu", "a vécu", "avons vécu", "avez vécu", "ont vécu"],
+        "imparfait": ["vivais", "vivais", "vivait", "vivions", "viviez", "vivaient"],
+        "futur": ["vivrai", "vivras", "vivra", "vivrons", "vivrez", "vivront"],
+        "plus-que-parfait": ["avais vécu", "avais vécu", "avait vécu", "avions vécu", "aviez vécu", "avaient vécu"],
+        "conditionnel présent": ["vivrais", "vivrais", "vivrait", "vivrions", "vivriez", "vivraient"],
+        "conditionnel passé": ["aurais vécu", "aurais vécu", "aurait vécu", "aurions vécu", "auriez vécu", "auraient vécu"]
+    },
+    "finir": {
+        "présent": ["finis", "finis", "finit", "finissons", "finissez", "finissent"],
+        "passé composé": ["ai fini", "as fini", "a fini", "avons fini", "avez fini", "ont fini"],
+        "imparfait": ["finissais", "finissais", "finissait", "finissions", "finissiez", "finissaient"],
+        "futur": ["finirai", "finiras", "finira", "finirons", "finirez", "finiront"],
+        "plus-que-parfait": ["avais fini", "avais fini", "avait fini", "avions fini", "aviez fini", "avaient fini"],
+        "conditionnel présent": ["finirais", "finirais", "finirait", "finirions", "finiriez", "finiraient"],
+        "conditionnel passé": ["aurais fini", "aurais fini", "aurait fini", "aurions fini", "auriez fini", "auraient fini"]
+    },
+    "sortir": {
+        "présent": ["sors", "sors", "sort", "sortons", "sortez", "sortent"],
+        "passé composé": ["suis sorti", "es sorti", "est sorti", "sommes sortis", "êtes sortis", "sont sortis"],
+        "imparfait": ["sortais", "sortais", "sortait", "sortions", "sortiez", "sortaient"],
+        "futur": ["sortirai", "sortiras", "sortira", "sortirons", "sortirez", "sortiront"],
+        "plus-que-parfait": ["étais sorti", "étais sorti", "était sorti", "étions sortis", "étiez sortis", "étaient sortis"],
+        "conditionnel présent": ["sortirais", "sortirais", "sortirait", "sortirions", "sortiriez", "sortiraient"],
+        "conditionnel passé": ["serais sorti", "serais sorti", "serait sorti", "serions sortis", "seriez sortis", "seraient sortis"]
+    }
+}
