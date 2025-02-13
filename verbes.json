@@ -286,5 +286,98 @@
         "plus-que-parfait": ["étais sorti", "étais sorti", "était sorti", "étions sortis", "étiez sortis", "étaient sortis"],
         "conditionnel présent": ["sortirais", "sortirais", "sortirait", "sortirions", "sortiriez", "sortiraient"],
         "conditionnel passé": ["serais sorti", "serais sorti", "serait sorti", "serions sortis", "seriez sortis", "seraient sortis"]
+    },
+    "coder": {
+        "présent": ["code", "codes", "code", "codons", "codez", "codent"],
+        "passé composé": ["ai codé", "as codé", "a codé", "avons codé", "avez codé", "ont codé"],
+        "imparfait": ["codais", "codais", "codait", "codions", "codiez", "codaient"],
+        "futur": ["coderai", "coderas", "codera", "coderons", "coderez", "coderont"],
+        "plus-que-parfait": ["avais codé", "avais codé", "avait codé", "avions codé", "aviez codé", "avaient codé"],
+        "conditionnel présent": ["coderais", "coderais", "coderait", "coderions", "coderiez", "coderaient"],
+        "conditionnel passé": ["aurais codé", "aurais codé", "aurait codé", "aurions codé", "auriez codé", "auraient codé"]
+    },
+    "compiler": {
+        "présent": ["compile", "compiles", "compile", "compilons", "compilez", "compilent"],
+        "passé composé": ["ai compilé", "as compilé", "a compilé", "avons compilé", "avez compilé", "ont compilé"],
+        "imparfait": ["compilais", "compilais", "compilait", "compilions", "compiliez", "compilaient"],
+        "futur": ["compilerai", "compileras", "compilera", "compilerons", "compilerez", "compileront"],
+        "plus-que-parfait": ["avais compilé", "avais compilé", "avait compilé", "avions compilé", "aviez compilé", "avaient compilé"],
+        "conditionnel présent": ["compilerais", "compilerais", "compilerait", "compilerions", "compileriez", "compileront"],
+        "conditionnel passé": ["aurais compilé", "aurais compilé", "aurait compilé", "aurions compilé", "auriez compilé", "auraient compilé"]
+    },
+    "déboguer": {
+        "présent": ["débogue", "débogues", "débogue", "déboguons", "déboguez", "déboguent"],
+        "passé composé": ["ai débogué", "as débogué", "a débogué", "avons débogué", "avez débogué", "ont débogué"],
+        "imparfait": ["déboguais", "déboguais", "déboguait", "déboguions", "déboguiez", "déboguaient"],
+        "futur": ["déboguerai", "débogueras", "déboguera", "déboguerons", "déboguerez", "débogueront"],
+        "plus-que-parfait": ["avais débogué", "avais débogué", "avait débogué", "avions débogué", "aviez débogué", "avaient débogué"],
+        "conditionnel présent": ["déboguerais", "déboguerais", "déboguerait", "déboguerions", "débogueriez", "débogueraient"],
+        "conditionnel passé": ["aurais débogué", "aurais débogué", "aurait débogué", "aurions débogué", "auriez débogué", "auraient débogué"]
+    },
+    "déployer": {
+        "présent": ["déploie", "déploies", "déploie", "déployons", "déployez", "déploient"],
+        "passé composé": ["ai déployé", "as déployé", "a déployé", "avons déployé", "avez déployé", "ont déployé"],
+        "imparfait": ["déployais", "déployais", "déployait", "déployions", "déployiez", "déployaient"],
+        "futur": ["déploierai", "déploieras", "déploiera", "déploierons", "déploierez", "déploieront"],
+        "plus-que-parfait": ["avais déployé", "avais déployé", "avait déployé", "avions déployé", "aviez déployé", "avaient déployé"],
+        "conditionnel présent": ["déploierais", "déploierais", "déploierait", "déploierions", "déploieriez", "déploieraient"],
+        "conditionnel passé": ["aurais déployé", "aurais déployé", "aurait déployé", "aurions déployé", "auriez déployé", "auraient déployé"]
+    },
+    "tester": {
+        "présent": ["teste", "testes", "teste", "testons", "testez", "testent"],
+        "passé composé": ["ai testé", "as testé", "a testé", "avons testé", "avez testé", "ont testé"],
+        "imparfait": ["testais", "testais", "testait", "testions", "testiez", "testaient"],
+        "futur": ["testerai", "testeras", "testera", "testerons", "testerez", "testeront"],
+        "plus-que-parfait": ["avais testé", "avais testé", "avait testé", "avions testé", "aviez testé", "avaient testé"],
+        "conditionnel présent": ["testerais", "testerais", "testerait", "testerions", "testeriez", "testeraient"],
+        "conditionnel passé": ["aurais testé", "aurais testé", "aurait testé", "aurions testé", "auriez testé", "auraient testé"]
+    },
+    "optimiser": {
+        "présent": ["optimise", "optimises", "optimise", "optimisons", "optimisez", "optimisent"],
+        "passé composé": ["ai optimisé", "as optimisé", "a optimisé", "avons optimisé", "avez optimisé", "ont optimisé"],
+        "imparfait": ["optimisais", "optimisais", "optimisait", "optimisions", "optimisiez", "optimisaient"],
+        "futur": ["optimiserai", "optimiseras", "optimisera", "optimiserons", "optimiserez", "optimiseront"],
+        "plus-que-parfait": ["avais optimisé", "avais optimisé", "avait optimisé", "avions optimisé", "aviez optimisé", "avaient optimisé"],
+        "conditionnel présent": ["optimiserais", "optimiserais", "optimiserait", "optimiserions", "optimiseriez", "optimiseraient"],
+        "conditionnel passé": ["aurais optimisé", "aurais optimisé", "aurait optimisé", "aurions optimisé", "auriez optimisé", "auraient optimisé"]
+        
+    },
+    "analyser": {
+        "présent": ["analyse", "analyses", "analyse", "analysons", "analysez", "analysent"],
+        "passé composé": ["ai analysé", "as analysé", "a analysé", "avons analysé", "avez analysé", "ont analysé"],
+        "imparfait": ["analysais", "analysais", "analysait", "analysions", "analysiez", "analysaient"],
+        "futur": ["analyserai", "analyseras", "analysera", "analyserons", "analyserez", "analyseront"],
+        "plus-que-parfait": ["avais analysé", "avais analysé", "avait analysé", "avions analysé", "aviez analysé", "avaient analysé"],
+        "conditionnel présent": ["analyserais", "analyserais", "analyserait", "analyserions", "analyseriez", "analyseraient"],
+        "conditionnel passé": ["aurais analysé", "aurais analysé", "aurait analysé", "aurions analysé", "auriez analysé", "auraient analysé"]
+    },
+    "documenter": {
+        "présent": ["documente", "documentes", "documente", "documentons", "documentez", "documentent"],
+        "passé composé": ["ai documenté", "as documenté", "a documenté", "avons documenté", "avez documenté", "ont documenté"],
+        "imparfait": ["documentais", "documentais", "documentait", "documentions", "documentiez", "documentaient"],
+        "futur": ["documenterai", "documenteras", "documentera", "documenterons", "documenterez", "documenteront"],
+        "plus-que-parfait": ["avais documenté", "avais documenté", "avait documenté", "avions documenté", "aviez documenté", "avaient documenté"],
+        "conditionnel présent": ["documenterais", "documenterais", "documenterait", "documenterions", "documenteriez", "documenteraient"],
+        "conditionnel passé": ["aurais documenté", "aurais documenté", "aurait documenté", "aurions documenté", "auriez documenté", "auraient documenté"]
+
+    },
+    "intégrer": {
+        "présent": ["intègre", "intègres", "intègre", "intégrons", "intégrez", "intègrent"],
+        "passé composé": ["ai intégré", "as intégré", "a intégré", "avons intégré", "avez intégré", "ont intégré"],
+        "imparfait": ["intégrais", "intégrais", "intégrait", "intégrions", "intégriez", "intégraient"],
+        "futur": ["intégrerai", "intégreras", "intégrera", "intégrerons", "intégrerez", "intégreront"],
+        "plus-que-parfait": ["avais intégré", "avais intégré", "avait intégré", "avions intégré", "aviez intégré", "avaient intégré"],
+        "conditionnel présent": ["intégrerais", "intégrerais", "intégrerait", "intégrerions", "intégreriez", "intégreraient"],
+        "conditionnel passé": ["aurais intégré", "aurais intégré", "aurait intégré", "aurions intégré", "auriez intégré", "auraient intégré"]
+        
+    },
+    "configurer": {
+        "présent": ["configure", "configures", "configure", "configurons", "configurez", "configurent"],
+        "passé composé": ["ai configuré", "as configuré", "a configuré", "avons configuré", "avez configuré", "ont configuré"],
+        "imparfait": ["configurais", "configurais", "configurait", "configurions", "configuriez", "configuraient"],
+        "futur": ["configurerai", "configureras", "configurera", "configurerons", "configurerez", "configureront"],
+        "plus-que-parfait": ["avais configuré", "avais configuré", "avait configuré", "avions configuré", "aviez configuré", "avaient configuré"],
+        "conditionnel présent": ["configurerais", "configurerais", "configurerait", "configurererions", "configureriez", "configureraient"],
+        "conditionnel passé": ["aurais configuré", "aurais configuré", "aurait configuré", "aurions configuré", "auriez configuré", "auraient configuré"]
     }
 }
